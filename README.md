@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+## MY GitHub stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoMingze&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![DaoMingze's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoMingze&show_icons=true&theme=radical)](https://github.com/DaoMingze/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoMingze&layout=compact)](https://github.com/DaoMingze/github-readme-stats)
 
 <!--
 **DaoMingze/DaoMingze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
