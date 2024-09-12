@@ -1,4 +1,11 @@
-### Hi there 👋
+# DaoMingze
+
+## About Me
+
+[![资质证书](https://img.shields.io/badge/CISA-国际注册信息系统审计师-mediumblue)](https://www.credly.com/badges/babe97cd-d218-4eaf-9155-63a549ba5890)
+![资质证书](https://img.shields.io/badge/CDA_Ⅰ-数据分析师（初级）-mediumblue)
+![资质证书](https://img.shields.io/badge/CET_4-大学英语四级-mediumblue)
+![资质证书](https://img.shields.io/badge/普通话-二级甲等-mediumblue)
 
 ## MY GitHub 状态
 
