@@ -2,10 +2,19 @@
 
 ## About Me
 
+### Cert.
+
 [![资质证书](https://img.shields.io/badge/CISA-国际注册信息系统审计师-mediumblue)](https://www.credly.com/badges/babe97cd-d218-4eaf-9155-63a549ba5890)
 ![资质证书](https://img.shields.io/badge/CDA_Ⅰ-数据分析师（初级）-mediumblue)
 ![资质证书](https://img.shields.io/badge/CET_4-大学英语四级-mediumblue)
 ![资质证书](https://img.shields.io/badge/普通话-二级甲等-mediumblue)
+
+### Skills
+
+![技能](https://img.shields.io/badge/Liunx-熟悉Debian-mediumblue?logo=linux&logoColor=yellow)
+![技能](https://img.shields.io/badge/Python-熟悉-mediumblue?logo=python&logoColor=yellow)
+![技能](https://img.shields.io/badge/电子表格-熟练-mediumblue?logo=tableau&logoColor=red)
+![技能](https://img.shields.io/badge/SQL-熟悉MySQL方言-mediumblue?logo=MySQL&logoColor=yellow)
 
 ## MY GitHub 状态
 
